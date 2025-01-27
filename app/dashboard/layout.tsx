@@ -1,6 +1,7 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 import { CheckIcon } from '@heroicons/react/24/outline';
 import React from 'react';
+// export const experimental_ppr = true;
 
 export default function Layout({ children }: { children: React.ReactNode }) {
     return (
